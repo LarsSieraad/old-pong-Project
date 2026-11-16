@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Label" name="label2" style="align-self: flex-end; left: -200px; top: 100px; color: rgb(255, 255, 255); font-size: 20px;" />
+    <ui:Label text="Label" name="label1" style="align-self: flex-start; position: absolute; left: 200px; align-content: auto; top: 100px; font-size: 20px; color: rgb(255, 255, 255);" />
+</ui:UXML>
